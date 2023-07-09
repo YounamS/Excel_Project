@@ -16,3 +16,22 @@ Through the analysis of customer data, we gain valuable insights into demographi
 
 ## RESULT
 By attracting customers during slow sales periods and generating renewed interest in declining pizza varieties, we anticipate substantial revenue growth and the establishment of a loyal customer base.
+
+# FORMULAS USED 
+![order - formula](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/6d9f1c48-8d78-4b3c-ab6a-bde548119136)
+![order_details-formula](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/57df1fac-607e-4926-b5f7-26df8320f6b4)
+![Pizza-formula](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/f3577e70-8ecf-4d26-942c-a6be050d4e23)
+
+# VISUALIZATION - THROUGH TABLE 
+![Pizza by time-Table](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/acac3d25-1960-48de-939a-37fbdf532b54)
+![PIZZE SIZE - PIE CHART-TABLE](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/42fcc8ec-8b85-4325-a08b-990418f2c0ed)
+
+# VISUALIZATION
+![PIZZE SIZE - PIE CHART](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/9c6e3ce3-6498-4b01-8027-6cdba5ed8de9)
+![Pizza by time-Table](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/f9e1eb17-14a7-403d-97b8-e0532f5aa554)
+
+
+
+
+
+
