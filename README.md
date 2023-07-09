@@ -22,13 +22,13 @@ By attracting customers during slow sales periods and generating renewed interes
 ![order_details-formula](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/57df1fac-607e-4926-b5f7-26df8320f6b4)
 ![Pizza-formula](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/f3577e70-8ecf-4d26-942c-a6be050d4e23)
 
-# VISUALIZATION - THROUGH TABLE 
-![Pizza by time-Table](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/acac3d25-1960-48de-939a-37fbdf532b54)
+# BREAKDOWN OF PIZZA sale by SIZE
 ![PIZZE SIZE - PIE CHART-TABLE](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/42fcc8ec-8b85-4325-a08b-990418f2c0ed)
-
-# VISUALIZATION
 ![PIZZE SIZE - PIE CHART](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/9c6e3ce3-6498-4b01-8027-6cdba5ed8de9)
+
+# Analysing sale of Pizza all through business hours of store 
 ![Pizza by time-Table](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/f9e1eb17-14a7-403d-97b8-e0532f5aa554)
+![Pizza by time-graph](https://github.com/YounamS/Pizza-Store-Data-Analysis_Excel-Project/assets/40123305/6b3d3726-247b-4715-b776-a92f648ccaf6)
 
 
 
